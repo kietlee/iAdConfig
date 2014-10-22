@@ -1,4 +1,1 @@
-iAdConfig
-=========
-
-iAd config file
+enable
