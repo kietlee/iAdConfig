@@ -1,0 +1,4 @@
+iAdConfig
+=========
+
+iAd config file
